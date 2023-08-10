@@ -1,0 +1,118 @@
+form {
+  float: right;
+}
+img {
+  padding-bottom: 5px;
+}
+
+.search-button {
+  position: relative;
+  bottom: 2px;
+}
+
+.current-button {
+  padding: 4px;
+  padding-right: 5px;
+  padding-left: 5px;
+  border-radius: 4px;
+  color: #0a5ed7;
+  font-size: 14px;
+  position: relative;
+  bottom: 2px;
+}
+.container {
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
+  width: 600px;
+  height: 430px;
+  background-image: url(https://s3.amazonaws.com/shecodesio-production/uploads/files/000/085/737/original/emmanuel-appiah-d4xr5jN5f3g-unsplash.jpg?1686770235);
+  background-size: cover;
+  border-radius: 10px;
+  box-shadow: 4px 7px 20px 4px rgba(0, 0, 0, 0.3);
+  padding: 20px;
+  border: 1px outset #fefefe;
+}
+
+.city {
+  display: inline;
+  font-family: "Inter Tight", sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  color: whitesmoke;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  padding-top: 15px;
+  padding-left: 10px;
+}
+.big-icon {
+  width: 55px;
+  position: relative;
+  bottom: 20px;
+  left: 8px;
+}
+.daily-temperature {
+  font-size: 35px;
+  font-weight: 600;
+  color: whitesmoke;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: "Inter Tight", sans-serif;
+  padding-left: 10px;
+  position: relative;
+  bottom: 25px;
+}
+.units {
+  position: relative;
+  top: -65px;
+  left: 55px;
+}
+.details {
+  float: right;
+  background-color: rgb(53, 53, 53, 0.6);
+  color: white;
+  font-size: 40;
+  font-family: "Inter Tight", sans-serif;
+  border-radius: 5px;
+  padding: 65px 40px;
+  position: relative;
+  bottom: 160px;
+}
+.precipitation {
+  padding-bottom: 10px;
+}
+.humidity {
+  padding-bottom: 10px;
+}
+.time {
+  font-size: 20px;
+  font-family: "Inter Tight", sans-serif;
+  color: whitesmoke;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  padding-left: 10px;
+  position: relative;
+  bottom: -65px;
+}
+.card {
+  width: 100%;
+  position: relative;
+  top: -155px;
+  padding-top: 0;
+  padding-bottom: -10px;
+  color: white;
+  background-color: rgb(53, 53, 53, 53);
+}
+.forecast-date {
+  padding-bottom: 10px;
+}
+.weekly-temperature {
+  display: inline;
+  position: relative;
+  left: 4px;
+  padding: 10px;
+  font-size: 15px;
+}
+.temp-max {
+  font-weight: 400;
+}
+.temp-min {
+  color: rgb(156, 156, 156);
+}
