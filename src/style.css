@@ -116,3 +116,8 @@ img {
 .temp-min {
   color: rgb(156, 156, 156);
 }
+footer {
+  text-align: center;
+  padding-top: 10px;
+  padding-left: 20px;
+}
